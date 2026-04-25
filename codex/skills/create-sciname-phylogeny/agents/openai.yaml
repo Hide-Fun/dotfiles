@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Scientific-Name Phylogeny"
+  short_description: "Plot readable scientific-name phylogenetic trees"
+  default_prompt: "Use $create-sciname-phylogeny to render a publication-ready phylogenetic tree from my Newick file."

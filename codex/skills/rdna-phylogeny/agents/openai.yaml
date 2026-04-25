@@ -1,0 +1,4 @@
+interface:
+  display_name: "rDNA Phylogeny"
+  short_description: "Plan reproducible rDNA phylogenetic pipelines"
+  default_prompt: "Use $rdna-phylogeny to recommend an SSU/ITS/LSU pipeline and produce a reproducible execution report."

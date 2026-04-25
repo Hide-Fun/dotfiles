@@ -1,0 +1,4 @@
+interface:
+  display_name: "Migrate QMD References"
+  short_description: "Convert hardcoded QMD references to Quarto citations"
+  default_prompt: "Use $migrate-qmd-references to migrate hardcoded citations and manual references in this Quarto project into references.bib and [@citekey] syntax."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "UNITE Taxon Phylogeny"
+  short_description: "UNITE SH と系統推定で分類群候補を評価する"
+  default_prompt: "Use $unite-taxon-phylogeny to screen query ITS sequences against a target fungal taxon with UNITE SH, curated references, phylogeny, and ggtree visualization."

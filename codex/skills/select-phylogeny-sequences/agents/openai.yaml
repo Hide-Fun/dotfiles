@@ -1,0 +1,4 @@
+interface:
+  display_name: "Select Phylogeny Sequences"
+  short_description: "Choose sequence records for phylogenies"
+  default_prompt: "Use $select-phylogeny-sequences to collect and rank sequence records for a phylogenetic analysis."

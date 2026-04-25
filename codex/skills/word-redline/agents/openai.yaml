@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word Redline"
+  short_description: "Edit Word docs with tracked changes"
+  default_prompt: "Use $word-redline to edit this .docx file while preserving tracked changes, comments, and Word review markup, stamp any new review metadata with the author label Codex (<model-name>), and return three artifacts: revised.docx, the input Markdown snapshot, and the revised Markdown snapshot."
