@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word Tracked Editor"
+  short_description: "Tracked Word edits with protected citations"
+  default_prompt: "Use $word-tracked-editor to inspect and apply tracked edits to a local Word document without modifying protected citation fields."
